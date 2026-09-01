@@ -3120,8 +3120,8 @@ function App() {
   useEffect(() => {
     let cancelled = false;
     Promise.all([
-      fetch('/cases.json').then((response) => response.json()),
-      fetch('/style-library.json').then((response) => response.json())
+      fetch('./cases.json').then((response) => response.json()),
+      fetch('./style-library.json').then((response) => response.json())
     ])
       .then(([payload, library]) => {
         if (!cancelled) {

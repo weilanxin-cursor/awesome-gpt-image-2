@@ -13,8 +13,8 @@ function readJson(file) {
 }
 
 function localImagePath(src) {
-  if (!src.startsWith('/images/')) return '';
-  return join(root, 'data', src.replace(/^\/images\//, 'images/'));
+  if (!src.startsWith('/images/') && !src.startsWith('./images/')) return '';
+  return join(root, 'data', src.replace(/^\.?\/images\//, 'images/'));
 }
 
 function assertUnique(items, field, label) {

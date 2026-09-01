@@ -19,7 +19,7 @@ Generated from `data/style-library.json`. Use this file as the detailed index fo
 - Styles: UI
 - Scenes: Tech, Social
 - Tags: UI, Dashboard, Screenshot
-- Cover: `/images/case17.jpg`
+- Cover: `./images/case17.jpg`
 - Template source: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-ui
 - Example cases: case 17, case 2, case 4
 
@@ -46,7 +46,7 @@ Pitfalls:
 - Styles: Infographic, Charts
 - Scenes: Education, Tech
 - Tags: Infographic, Chart, Education
-- Cover: `/images/case334.png`
+- Cover: `./images/case334.png`
 - Template source: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-infographic
 - Example cases: case 334, case 1, case 8
 
@@ -73,7 +73,7 @@ Pitfalls:
 - Styles: Infographic, Charts, Realistic
 - Scenes: Education, Tech
 - Tags: Infographic, Chart, Education
-- Cover: `/images/case341.jpg`
+- Cover: `./images/case341.jpg`
 - Template source: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-infographic
 - Example cases: case 341
 
@@ -100,7 +100,7 @@ Pitfalls:
 - Styles: Poster
 - Scenes: Commerce, Social
 - Tags: Poster, Typography, Campaign
-- Cover: `/images/case345.jpg`
+- Cover: `./images/case345.jpg`
 - Template source: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-poster
 - Example cases: case 345, case 5, case 10
 
@@ -127,7 +127,7 @@ Pitfalls:
 - Styles: Poster, Realistic
 - Scenes: Commerce, Fashion
 - Tags: Poster, Campaign, Typography
-- Cover: `/images/case350.jpg`
+- Cover: `./images/case350.jpg`
 - Template source: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-poster
 - Example cases: case 350, case 3
 
@@ -154,7 +154,7 @@ Pitfalls:
 - Styles: Poster
 - Scenes: Creative, Social
 - Tags: Typography, Poster, Style
-- Cover: `/images/case355.jpg`
+- Cover: `./images/case355.jpg`
 - Template source: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-poster
 - Example cases: case 355
 
@@ -181,7 +181,7 @@ Pitfalls:
 - Styles: Poster, Illustration, Classical
 - Scenes: Story, History
 - Tags: Poster, Classical, Style
-- Cover: `/images/case359.jpg`
+- Cover: `./images/case359.jpg`
 - Template source: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-poster
 - Example cases: case 359
 
@@ -208,7 +208,7 @@ Pitfalls:
 - Styles: Poster, Infographic
 - Scenes: Education
 - Tags: Poster, Education, Style
-- Cover: `/images/case339.jpg`
+- Cover: `./images/case339.jpg`
 - Template source: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-poster
 - Example cases: case 339
 
@@ -235,7 +235,7 @@ Pitfalls:
 - Styles: Product, Realistic
 - Scenes: Commerce, Food
 - Tags: Product, Commerce, Packaging
-- Cover: `/images/case373.jpg`
+- Cover: `./images/case373.jpg`
 - Template source: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-product
 - Example cases: case 373, case 358
 
@@ -262,7 +262,7 @@ Pitfalls:
 - Styles: Product, UI
 - Scenes: Commerce, Fashion
 - Tags: Product, Layout, Style
-- Cover: `/images/case353.jpg`
+- Cover: `./images/case353.jpg`
 - Template source: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-product
 - Example cases: case 353
 
@@ -289,7 +289,7 @@ Pitfalls:
 - Styles: Brand
 - Scenes: Commerce
 - Tags: Brand, Logo, Identity
-- Cover: `/images/case354.jpg`
+- Cover: `./images/case354.jpg`
 - Template source: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-brand
 - Example cases: case 354
 
@@ -316,7 +316,7 @@ Pitfalls:
 - Styles: Brand, Product
 - Scenes: Commerce, Social
 - Tags: Brand, Identity, Campaign
-- Cover: `/images/case362.jpg`
+- Cover: `./images/case362.jpg`
 - Template source: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-brand
 - Example cases: case 362
 
@@ -343,7 +343,7 @@ Pitfalls:
 - Styles: Architecture
 - Scenes: Travel, Commerce
 - Tags: Architecture, Interior, Map
-- Cover: `/images/case331.png`
+- Cover: `./images/case331.png`
 - Template source: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-architecture
 - Example cases: case 331, case 11
 
@@ -370,7 +370,7 @@ Pitfalls:
 - Styles: Photography, Realistic
 - Scenes: Fashion, Commerce
 - Tags: Photography, Realistic, Lens
-- Cover: `/images/case377.jpg`
+- Cover: `./images/case377.jpg`
 - Template source: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-photo
 - Example cases: case 377
 
@@ -397,7 +397,7 @@ Pitfalls:
 - Styles: Photography, Realistic
 - Scenes: Travel, Social
 - Tags: Photography, Realistic, Scene
-- Cover: `/images/case376.jpg`
+- Cover: `./images/case376.jpg`
 - Template source: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-photo
 - Example cases: case 376
 
@@ -424,7 +424,7 @@ Pitfalls:
 - Styles: Illustration
 - Scenes: Story, Creative
 - Tags: Illustration, Art, Style
-- Cover: `/images/case346.jpg`
+- Cover: `./images/case346.jpg`
 - Template source: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-illustration
 - Example cases: case 346, case 6
 
@@ -451,7 +451,7 @@ Pitfalls:
 - Styles: Character, Illustration
 - Scenes: Story
 - Tags: Character, Pose, Style
-- Cover: `/images/case347.jpg`
+- Cover: `./images/case347.jpg`
 - Template source: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-character
 - Example cases: case 347
 
@@ -478,7 +478,7 @@ Pitfalls:
 - Styles: 3D, Character
 - Scenes: Commerce, Creative
 - Tags: Character, 3D, Style
-- Cover: `/images/case378.jpg`
+- Cover: `./images/case378.jpg`
 - Template source: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-character
 - Example cases: case 378
 
@@ -505,7 +505,7 @@ Pitfalls:
 - Styles: Scenes, Illustration
 - Scenes: Story, Social
 - Tags: Scene, Story, Storyboard
-- Cover: `/images/case330.png`
+- Cover: `./images/case330.png`
 - Template source: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-scene
 - Example cases: case 330
 
@@ -532,7 +532,7 @@ Pitfalls:
 - Styles: History, Classical, Illustration
 - Scenes: History, Story
 - Tags: History, Classical, Scroll
-- Cover: `/images/case375.jpg`
+- Cover: `./images/case375.jpg`
 - Template source: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-history
 - Example cases: case 375, case 338
 
@@ -559,7 +559,7 @@ Pitfalls:
 - Styles: Documents, Infographic
 - Scenes: Education, Tech
 - Tags: Document, Publishing, Layout
-- Cover: `/images/case360.jpg`
+- Cover: `./images/case360.jpg`
 - Template source: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-document
 - Example cases: case 360
 
@@ -586,7 +586,7 @@ Pitfalls:
 - Styles: Other Use Cases, Product
 - Scenes: Creative, Tech
 - Tags: Creative, R&D, Special
-- Cover: `/images/case370.jpg`
+- Cover: `./images/case370.jpg`
 - Template source: https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-other
 - Example cases: case 370, case 361
 
